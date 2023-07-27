@@ -1,7 +1,7 @@
 import SignUpForm from "./signupform"; 
-import Authenticate  from './authenticate'
-import ./App.css
-import {useState} from 'react'
+import Authenticate  from './authenticate';
+import './App.css';
+
 
 export default function App() {
   return (
